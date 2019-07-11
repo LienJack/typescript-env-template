@@ -1,0 +1,5 @@
+{
+  "tslint.configFile": "./tslint.json", // 配置路径
+  "tslint.autoFixOnSave": true, // 对不符合规范代码自动更改
+  "editor.formatOnSave": true // 编辑器保存时候进行整理
+}
